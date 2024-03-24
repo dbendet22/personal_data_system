@@ -1,0 +1,931 @@
+[2024-03-17T20:01:14.933-0400] {processor.py:161} INFO - Started process (PID=60041) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:01:14.934-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T20:01:14.934-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:01:14.934-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:01:14.962-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:01:15.013-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:01:15.012-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:01:15.016-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:01:15.016-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T20:01:15.024-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.091 seconds
+[2024-03-17T20:03:04.727-0400] {processor.py:161} INFO - Started process (PID=60140) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:03:04.728-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T20:03:04.728-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:03:04.728-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:03:04.756-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:03:04.805-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:03:04.805-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:03:04.809-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:03:04.808-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T20:03:04.815-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2024-03-17T20:04:52.083-0400] {processor.py:161} INFO - Started process (PID=60252) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:04:52.084-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T20:04:52.084-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:04:52.084-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:04:52.112-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:04:52.160-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:04:52.160-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:04:52.164-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:04:52.163-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T20:04:52.170-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.088 seconds
+[2024-03-17T20:06:35.824-0400] {processor.py:161} INFO - Started process (PID=60406) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:06:35.825-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T20:06:35.825-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:06:35.825-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:06:35.854-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:06:35.902-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:06:35.902-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:06:35.906-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:06:35.906-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T20:06:35.913-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.090 seconds
+[2024-03-17T20:08:21.581-0400] {processor.py:161} INFO - Started process (PID=60501) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:08:21.582-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T20:08:21.582-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:08:21.582-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:08:21.611-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:08:21.661-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:08:21.661-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:08:21.665-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:08:21.665-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T20:08:21.672-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.092 seconds
+[2024-03-17T20:10:09.747-0400] {processor.py:161} INFO - Started process (PID=60735) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:10:09.748-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T20:10:09.748-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:10:09.748-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:10:09.776-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:10:09.824-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:10:09.824-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:10:09.828-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:10:09.828-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T20:10:09.834-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.088 seconds
+[2024-03-17T20:11:56.960-0400] {processor.py:161} INFO - Started process (PID=60837) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:11:56.961-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T20:11:56.961-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:11:56.961-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:11:56.988-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:11:57.037-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:11:57.037-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:11:57.040-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:11:57.040-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T20:11:57.047-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.087 seconds
+[2024-03-17T20:13:54.550-0400] {processor.py:161} INFO - Started process (PID=61291) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:13:54.550-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T20:13:54.551-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:13:54.551-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:13:54.581-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:13:54.633-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:13:54.633-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:13:54.637-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:13:54.637-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T20:13:54.644-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.096 seconds
+[2024-03-17T20:15:53.150-0400] {processor.py:161} INFO - Started process (PID=62053) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:15:53.151-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T20:15:53.151-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:15:53.151-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:15:53.180-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:15:53.232-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:15:53.232-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:15:53.236-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:15:53.236-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T20:15:53.243-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.093 seconds
+[2024-03-17T20:17:43.263-0400] {processor.py:161} INFO - Started process (PID=62222) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:17:43.264-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T20:17:43.265-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:17:43.265-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:17:43.294-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:17:43.347-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:17:43.347-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:17:43.351-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:17:43.351-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T20:17:43.359-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.096 seconds
+[2024-03-17T20:19:33.570-0400] {processor.py:161} INFO - Started process (PID=62395) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:19:33.572-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T20:19:33.572-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:19:33.572-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:19:33.602-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:19:33.655-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:19:33.655-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:19:33.659-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:19:33.659-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T20:19:33.667-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.097 seconds
+[2024-03-17T20:21:27.679-0400] {processor.py:161} INFO - Started process (PID=62562) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:21:27.681-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T20:21:27.681-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:21:27.681-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:21:27.709-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:21:27.758-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:21:27.758-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:21:27.761-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:21:27.761-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T20:21:27.768-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2024-03-17T20:23:19.425-0400] {processor.py:161} INFO - Started process (PID=62801) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:23:19.425-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T20:23:19.426-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:23:19.426-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:23:19.459-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:23:19.510-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:23:19.510-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:23:19.514-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:23:19.514-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T20:23:19.521-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.098 seconds
+[2024-03-17T20:25:08.706-0400] {processor.py:161} INFO - Started process (PID=62987) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:25:08.707-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T20:25:08.707-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:25:08.707-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:25:08.738-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:25:08.786-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:25:08.786-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:25:08.790-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:25:08.790-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T20:25:08.797-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.092 seconds
+[2024-03-17T20:26:59.436-0400] {processor.py:161} INFO - Started process (PID=63102) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:26:59.437-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T20:26:59.438-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:26:59.437-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:26:59.467-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:26:59.515-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:26:59.515-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:26:59.519-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:26:59.519-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T20:26:59.526-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.090 seconds
+[2024-03-17T20:28:47.740-0400] {processor.py:161} INFO - Started process (PID=63317) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:28:47.741-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T20:28:47.741-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:28:47.741-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:28:47.771-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:28:47.823-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:28:47.822-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:28:47.827-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:28:47.827-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T20:28:47.834-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.094 seconds
+[2024-03-17T20:30:38.990-0400] {processor.py:161} INFO - Started process (PID=63450) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:30:38.990-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T20:30:38.991-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:30:38.991-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:30:39.021-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:30:39.073-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:30:39.072-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:30:39.077-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:30:39.077-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T20:30:39.084-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.095 seconds
+[2024-03-17T20:32:29.104-0400] {processor.py:161} INFO - Started process (PID=63559) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:32:29.105-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T20:32:29.105-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:32:29.105-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:32:29.136-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:32:29.185-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:32:29.185-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:32:29.189-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:32:29.189-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T20:32:29.195-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.092 seconds
+[2024-03-17T20:51:19.029-0400] {processor.py:161} INFO - Started process (PID=63948) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:51:19.030-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T20:51:19.030-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:51:19.030-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:51:19.057-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T20:51:19.105-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:51:19.105-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:51:19.108-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:51:19.108-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T20:51:19.115-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.087 seconds
+[2024-03-17T21:08:37.597-0400] {processor.py:161} INFO - Started process (PID=64259) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T21:08:37.598-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T21:08:37.599-0400] {logging_mixin.py:188} INFO - [2024-03-17T21:08:37.599-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T21:08:37.628-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T21:08:37.678-0400] {logging_mixin.py:188} INFO - [2024-03-17T21:08:37.678-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T21:08:37.682-0400] {logging_mixin.py:188} INFO - [2024-03-17T21:08:37.682-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T21:08:37.690-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.094 seconds
+[2024-03-17T21:26:51.798-0400] {processor.py:161} INFO - Started process (PID=64624) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T21:26:51.799-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T21:26:51.799-0400] {logging_mixin.py:188} INFO - [2024-03-17T21:26:51.799-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T21:26:51.827-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T21:26:51.876-0400] {logging_mixin.py:188} INFO - [2024-03-17T21:26:51.875-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T21:26:51.879-0400] {logging_mixin.py:188} INFO - [2024-03-17T21:26:51.879-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T21:26:51.886-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2024-03-17T21:29:33.071-0400] {processor.py:161} INFO - Started process (PID=64850) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T21:29:33.072-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T21:29:33.072-0400] {logging_mixin.py:188} INFO - [2024-03-17T21:29:33.072-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T21:29:33.101-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T21:29:33.153-0400] {logging_mixin.py:188} INFO - [2024-03-17T21:29:33.153-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T21:29:33.157-0400] {logging_mixin.py:188} INFO - [2024-03-17T21:29:33.157-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T21:29:33.164-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.093 seconds
+[2024-03-17T21:31:10.541-0400] {processor.py:161} INFO - Started process (PID=64967) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T21:31:10.542-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T21:31:10.542-0400] {logging_mixin.py:188} INFO - [2024-03-17T21:31:10.542-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T21:31:10.570-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T21:31:10.618-0400] {logging_mixin.py:188} INFO - [2024-03-17T21:31:10.618-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T21:31:10.621-0400] {logging_mixin.py:188} INFO - [2024-03-17T21:31:10.621-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T21:31:10.629-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2024-03-17T21:59:05.463-0400] {processor.py:161} INFO - Started process (PID=65630) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T21:59:05.463-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T21:59:05.464-0400] {logging_mixin.py:188} INFO - [2024-03-17T21:59:05.464-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T21:59:05.493-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T21:59:05.543-0400] {logging_mixin.py:188} INFO - [2024-03-17T21:59:05.543-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T21:59:05.547-0400] {logging_mixin.py:188} INFO - [2024-03-17T21:59:05.547-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T21:59:05.554-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.092 seconds
+[2024-03-17T22:16:48.677-0400] {processor.py:161} INFO - Started process (PID=65917) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T22:16:48.678-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T22:16:48.678-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:16:48.678-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T22:16:48.706-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T22:16:48.757-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:16:48.757-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T22:16:48.760-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:16:48.760-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T22:16:48.768-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.091 seconds
+[2024-03-17T22:18:49.660-0400] {processor.py:161} INFO - Started process (PID=66149) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T22:18:49.661-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T22:18:49.661-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:18:49.661-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T22:18:49.690-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T22:18:49.739-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:18:49.739-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T22:18:49.743-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:18:49.743-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T22:18:49.749-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.090 seconds
+[2024-03-17T22:20:33.478-0400] {processor.py:161} INFO - Started process (PID=66288) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T22:20:33.480-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T22:20:33.480-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:20:33.480-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T22:20:33.507-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T22:20:33.555-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:20:33.555-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T22:20:33.559-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:20:33.559-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T22:20:33.566-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.088 seconds
+[2024-03-17T22:22:14.506-0400] {processor.py:161} INFO - Started process (PID=66390) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T22:22:14.506-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T22:22:14.507-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:22:14.507-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T22:22:14.534-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T22:22:14.582-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:22:14.582-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T22:22:14.585-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:22:14.585-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T22:22:14.593-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.087 seconds
+[2024-03-17T22:23:58.718-0400] {processor.py:161} INFO - Started process (PID=66552) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T22:23:58.719-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T22:23:58.719-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:23:58.719-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T22:23:58.747-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T22:23:58.794-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:23:58.794-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T22:23:58.798-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:23:58.798-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T22:23:58.804-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.087 seconds
+[2024-03-17T22:25:39.341-0400] {processor.py:161} INFO - Started process (PID=66669) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T22:25:39.342-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T22:25:39.342-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:25:39.342-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T22:25:39.370-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T22:25:39.418-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:25:39.418-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T22:25:39.421-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:25:39.421-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T22:25:39.428-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.088 seconds
+[2024-03-17T22:27:25.588-0400] {processor.py:161} INFO - Started process (PID=66764) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T22:27:25.589-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T22:27:25.589-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:27:25.589-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T22:27:25.617-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T22:27:25.665-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:27:25.664-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T22:27:25.668-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:27:25.668-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T22:27:25.675-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.088 seconds
+[2024-03-17T22:29:10.441-0400] {processor.py:161} INFO - Started process (PID=66896) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T22:29:10.442-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T22:29:10.442-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:29:10.442-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T22:29:10.470-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T22:29:10.518-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:29:10.518-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T22:29:10.522-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:29:10.522-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T22:29:10.529-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2024-03-17T22:30:55.187-0400] {processor.py:161} INFO - Started process (PID=67032) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T22:30:55.188-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T22:30:55.188-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:30:55.188-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T22:30:55.216-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T22:30:55.263-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:30:55.263-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T22:30:55.267-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:30:55.267-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T22:30:55.274-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.087 seconds
+[2024-03-17T22:32:41.596-0400] {processor.py:161} INFO - Started process (PID=67129) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T22:32:41.597-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T22:32:41.601-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:32:41.601-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T22:32:41.634-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T22:32:41.682-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:32:41.682-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T22:32:41.685-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:32:41.685-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T22:32:41.692-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.097 seconds
+[2024-03-17T22:34:26.649-0400] {processor.py:161} INFO - Started process (PID=67304) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T22:34:26.650-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T22:34:26.650-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:34:26.650-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T22:34:26.678-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T22:34:26.728-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:34:26.728-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T22:34:26.732-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:34:26.732-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T22:34:26.738-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.090 seconds
+[2024-03-17T23:06:54.246-0400] {processor.py:161} INFO - Started process (PID=67758) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T23:06:54.246-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T23:06:54.247-0400] {logging_mixin.py:188} INFO - [2024-03-17T23:06:54.247-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T23:06:54.276-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T23:06:54.324-0400] {logging_mixin.py:188} INFO - [2024-03-17T23:06:54.324-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T23:06:54.328-0400] {logging_mixin.py:188} INFO - [2024-03-17T23:06:54.328-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T23:06:54.335-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.090 seconds
+[2024-03-17T23:09:08.599-0400] {processor.py:161} INFO - Started process (PID=67955) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T23:09:08.599-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T23:09:08.600-0400] {logging_mixin.py:188} INFO - [2024-03-17T23:09:08.600-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T23:09:08.629-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T23:09:08.677-0400] {logging_mixin.py:188} INFO - [2024-03-17T23:09:08.677-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T23:09:08.681-0400] {logging_mixin.py:188} INFO - [2024-03-17T23:09:08.681-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T23:09:08.687-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2024-03-17T23:43:09.410-0400] {processor.py:161} INFO - Started process (PID=68388) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T23:43:09.410-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T23:43:09.411-0400] {logging_mixin.py:188} INFO - [2024-03-17T23:43:09.411-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T23:43:09.441-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T23:43:09.492-0400] {logging_mixin.py:188} INFO - [2024-03-17T23:43:09.492-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T23:43:09.496-0400] {logging_mixin.py:188} INFO - [2024-03-17T23:43:09.496-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T23:43:09.503-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.094 seconds
+[2024-03-17T23:45:07.746-0400] {processor.py:161} INFO - Started process (PID=68567) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T23:45:07.747-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-17T23:45:07.748-0400] {logging_mixin.py:188} INFO - [2024-03-17T23:45:07.748-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T23:45:07.775-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-17T23:45:07.823-0400] {logging_mixin.py:188} INFO - [2024-03-17T23:45:07.823-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T23:45:07.827-0400] {logging_mixin.py:188} INFO - [2024-03-17T23:45:07.827-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-17T23:45:07.834-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.088 seconds
+[2024-03-18T00:03:26.032-0400] {processor.py:161} INFO - Started process (PID=68946) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T00:03:26.032-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T00:03:26.033-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:03:26.033-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T00:03:26.060-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T00:03:26.109-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:03:26.109-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T00:03:26.113-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:03:26.113-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T00:03:26.119-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2024-03-18T00:09:07.098-0400] {processor.py:161} INFO - Started process (PID=69170) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T00:09:07.098-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T00:09:07.099-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:09:07.098-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T00:09:07.126-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T00:09:07.176-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:09:07.176-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T00:09:07.180-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:09:07.180-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T00:09:07.187-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.090 seconds
+[2024-03-18T00:26:54.075-0400] {processor.py:161} INFO - Started process (PID=69643) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T00:26:54.076-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T00:26:54.076-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:26:54.076-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T00:26:54.106-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T00:26:54.161-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:26:54.161-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T00:26:54.165-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:26:54.165-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T00:26:54.173-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.098 seconds
+[2024-03-18T00:28:48.115-0400] {processor.py:161} INFO - Started process (PID=70013) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T00:28:48.116-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T00:28:48.116-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:28:48.116-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T00:28:48.144-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T00:28:48.192-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:28:48.192-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T00:28:48.195-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:28:48.195-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T00:28:48.202-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.088 seconds
+[2024-03-18T00:30:36.331-0400] {processor.py:161} INFO - Started process (PID=70118) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T00:30:36.332-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T00:30:36.332-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:30:36.332-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T00:30:36.361-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T00:30:36.409-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:30:36.408-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T00:30:36.412-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:30:36.412-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T00:30:36.419-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.088 seconds
+[2024-03-18T00:48:58.173-0400] {processor.py:161} INFO - Started process (PID=70421) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T00:48:58.177-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T00:48:58.177-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:48:58.177-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T00:48:58.205-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T00:48:58.254-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:48:58.253-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T00:48:58.257-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:48:58.257-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T00:48:58.264-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.091 seconds
+[2024-03-18T00:50:43.092-0400] {processor.py:161} INFO - Started process (PID=71969) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T00:50:43.092-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T00:50:43.093-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:50:43.093-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T00:50:43.122-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T00:50:43.173-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:50:43.172-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T00:50:43.176-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:50:43.176-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T00:50:43.184-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.092 seconds
+[2024-03-18T01:09:16.724-0400] {processor.py:161} INFO - Started process (PID=72321) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T01:09:16.725-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T01:09:16.725-0400] {logging_mixin.py:188} INFO - [2024-03-18T01:09:16.725-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T01:09:16.753-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T01:09:16.802-0400] {logging_mixin.py:188} INFO - [2024-03-18T01:09:16.801-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T01:09:16.805-0400] {logging_mixin.py:188} INFO - [2024-03-18T01:09:16.805-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T01:09:16.812-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.090 seconds
+[2024-03-18T01:43:35.934-0400] {processor.py:161} INFO - Started process (PID=72769) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T01:43:35.935-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T01:43:35.935-0400] {logging_mixin.py:188} INFO - [2024-03-18T01:43:35.935-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T01:43:35.963-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T01:43:36.011-0400] {logging_mixin.py:188} INFO - [2024-03-18T01:43:36.011-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T01:43:36.015-0400] {logging_mixin.py:188} INFO - [2024-03-18T01:43:36.015-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T01:43:36.021-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.087 seconds
+[2024-03-18T02:01:22.553-0400] {processor.py:161} INFO - Started process (PID=73101) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T02:01:22.555-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T02:01:22.555-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:01:22.555-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T02:01:22.583-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T02:01:22.631-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:01:22.631-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T02:01:22.634-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:01:22.634-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T02:01:22.642-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2024-03-18T02:19:03.082-0400] {processor.py:161} INFO - Started process (PID=73373) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T02:19:03.082-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T02:19:03.083-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:19:03.083-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T02:19:03.110-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T02:19:03.158-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:19:03.158-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T02:19:03.162-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:19:03.162-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T02:19:03.168-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.087 seconds
+[2024-03-18T02:20:46.052-0400] {processor.py:161} INFO - Started process (PID=73554) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T02:20:46.052-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T02:20:46.053-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:20:46.053-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T02:20:46.081-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T02:20:46.131-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:20:46.131-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T02:20:46.135-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:20:46.135-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T02:20:46.142-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.091 seconds
+[2024-03-18T02:53:18.370-0400] {processor.py:161} INFO - Started process (PID=73988) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T02:53:18.371-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T02:53:18.371-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:53:18.371-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T02:53:18.400-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T02:53:18.459-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:53:18.459-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T02:53:18.463-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:53:18.463-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T02:53:18.470-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.100 seconds
+[2024-03-18T02:55:17.327-0400] {processor.py:161} INFO - Started process (PID=74091) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T02:55:17.327-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T02:55:17.328-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:55:17.328-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T02:55:17.356-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T02:55:17.404-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:55:17.404-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T02:55:17.408-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:55:17.408-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T02:55:17.415-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2024-03-18T02:57:03.840-0400] {processor.py:161} INFO - Started process (PID=74209) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T02:57:03.841-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T02:57:03.842-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:57:03.842-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T02:57:03.871-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T02:57:03.921-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:57:03.921-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T02:57:03.924-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:57:03.924-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T02:57:03.931-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.092 seconds
+[2024-03-18T02:58:47.829-0400] {processor.py:161} INFO - Started process (PID=74295) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T02:58:47.830-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T02:58:47.830-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:58:47.830-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T02:58:47.858-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T02:58:47.905-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:58:47.905-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T02:58:47.909-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:58:47.909-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T02:58:47.916-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.087 seconds
+[2024-03-18T03:00:33.533-0400] {processor.py:161} INFO - Started process (PID=74389) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:00:33.534-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T03:00:33.535-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:00:33.535-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:00:33.562-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:00:33.610-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:00:33.610-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:00:33.614-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:00:33.614-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T03:00:33.621-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.088 seconds
+[2024-03-18T03:02:20.383-0400] {processor.py:161} INFO - Started process (PID=74699) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:02:20.384-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T03:02:20.384-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:02:20.384-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:02:20.412-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:02:20.461-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:02:20.461-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:02:20.464-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:02:20.464-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T03:02:20.471-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2024-03-18T03:03:59.472-0400] {processor.py:161} INFO - Started process (PID=74786) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:03:59.474-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T03:03:59.474-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:03:59.474-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:03:59.504-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:03:59.551-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:03:59.551-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:03:59.555-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:03:59.555-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T03:03:59.562-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.091 seconds
+[2024-03-18T03:05:46.476-0400] {processor.py:161} INFO - Started process (PID=74876) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:05:46.477-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T03:05:46.478-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:05:46.477-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:05:46.505-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:05:46.553-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:05:46.553-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:05:46.557-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:05:46.557-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T03:05:46.564-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.088 seconds
+[2024-03-18T03:07:36.619-0400] {processor.py:161} INFO - Started process (PID=75026) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:07:36.621-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T03:07:36.621-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:07:36.621-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:07:36.648-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:07:36.697-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:07:36.697-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:07:36.700-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:07:36.700-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T03:07:36.707-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.088 seconds
+[2024-03-18T03:09:20.571-0400] {processor.py:161} INFO - Started process (PID=75114) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:09:20.573-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T03:09:20.573-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:09:20.573-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:09:20.600-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:09:20.648-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:09:20.648-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:09:20.652-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:09:20.652-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T03:09:20.659-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.088 seconds
+[2024-03-18T03:11:07.289-0400] {processor.py:161} INFO - Started process (PID=75252) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:11:07.290-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T03:11:07.290-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:11:07.290-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:11:07.318-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:11:07.367-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:11:07.367-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:11:07.370-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:11:07.370-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T03:11:07.377-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2024-03-18T03:12:52.812-0400] {processor.py:161} INFO - Started process (PID=75378) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:12:52.813-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T03:12:52.813-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:12:52.813-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:12:52.841-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:12:52.890-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:12:52.890-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:12:52.894-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:12:52.894-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T03:12:52.901-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2024-03-18T03:14:35.860-0400] {processor.py:161} INFO - Started process (PID=75480) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:14:35.861-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T03:14:35.861-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:14:35.861-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:14:35.891-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:14:35.939-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:14:35.939-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:14:35.942-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:14:35.942-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T03:14:35.949-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.090 seconds
+[2024-03-18T03:16:17.402-0400] {processor.py:161} INFO - Started process (PID=75578) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:16:17.403-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T03:16:17.403-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:16:17.403-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:16:17.431-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:16:17.479-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:16:17.479-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:16:17.482-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:16:17.482-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T03:16:17.489-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.087 seconds
+[2024-03-18T03:17:56.652-0400] {processor.py:161} INFO - Started process (PID=75689) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:17:56.653-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T03:17:56.654-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:17:56.654-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:17:56.682-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:17:56.732-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:17:56.731-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:17:56.735-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:17:56.735-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T03:17:56.742-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.091 seconds
+[2024-03-18T03:19:41.253-0400] {processor.py:161} INFO - Started process (PID=75868) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:19:41.255-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T03:19:41.255-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:19:41.255-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:19:41.285-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:19:41.333-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:19:41.333-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:19:41.337-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:19:41.337-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T03:19:41.344-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.091 seconds
+[2024-03-18T03:21:23.504-0400] {processor.py:161} INFO - Started process (PID=76014) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:21:23.505-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T03:21:23.506-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:21:23.506-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:21:23.533-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:21:23.581-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:21:23.581-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:21:23.585-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:21:23.585-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T03:21:23.594-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.091 seconds
+[2024-03-18T03:23:03.232-0400] {processor.py:161} INFO - Started process (PID=76112) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:23:03.233-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T03:23:03.234-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:23:03.234-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:23:03.262-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:23:03.310-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:23:03.310-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:23:03.314-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:23:03.314-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T03:23:03.322-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.090 seconds
+[2024-03-18T03:24:51.120-0400] {processor.py:161} INFO - Started process (PID=76194) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:24:51.122-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T03:24:51.122-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:24:51.122-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:24:51.149-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:24:51.197-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:24:51.197-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:24:51.201-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:24:51.201-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T03:24:51.209-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2024-03-18T03:26:36.409-0400] {processor.py:161} INFO - Started process (PID=76294) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:26:36.410-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T03:26:36.410-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:26:36.410-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:26:36.439-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:26:36.487-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:26:36.487-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:26:36.491-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:26:36.491-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T03:26:36.497-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.090 seconds
+[2024-03-18T03:28:18.710-0400] {processor.py:161} INFO - Started process (PID=76393) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:28:18.711-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T03:28:18.711-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:28:18.711-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:28:18.739-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:28:18.787-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:28:18.787-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:28:18.790-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:28:18.790-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T03:28:18.797-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.088 seconds
+[2024-03-18T03:30:03.706-0400] {processor.py:161} INFO - Started process (PID=76481) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:30:03.707-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T03:30:03.707-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:30:03.707-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:30:03.735-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:30:03.783-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:30:03.783-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:30:03.787-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:30:03.787-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T03:30:03.794-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2024-03-18T03:31:47.401-0400] {processor.py:161} INFO - Started process (PID=76650) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:31:47.402-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T03:31:47.402-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:31:47.402-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:31:47.429-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:31:47.477-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:31:47.477-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:31:47.480-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:31:47.480-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T03:31:47.487-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.087 seconds
+[2024-03-18T03:33:36.558-0400] {processor.py:161} INFO - Started process (PID=76767) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:33:36.562-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T03:33:36.562-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:33:36.562-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:33:36.589-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:33:36.636-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:33:36.636-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:33:36.640-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:33:36.640-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T03:33:36.646-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2024-03-18T03:35:20.255-0400] {processor.py:161} INFO - Started process (PID=76988) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:35:20.256-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T03:35:20.256-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:35:20.256-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:35:20.284-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:35:20.332-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:35:20.332-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:35:20.336-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:35:20.335-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T03:35:20.342-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.088 seconds
+[2024-03-18T03:37:09.430-0400] {processor.py:161} INFO - Started process (PID=77108) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:37:09.431-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T03:37:09.431-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:37:09.431-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:37:09.460-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:37:09.508-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:37:09.508-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:37:09.511-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:37:09.511-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T03:37:09.518-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2024-03-18T03:38:54.159-0400] {processor.py:161} INFO - Started process (PID=77192) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:38:54.160-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T03:38:54.160-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:38:54.160-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:38:54.188-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:38:54.236-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:38:54.236-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:38:54.239-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:38:54.239-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T03:38:54.246-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2024-03-18T03:40:39.837-0400] {processor.py:161} INFO - Started process (PID=77312) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:40:39.838-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T03:40:39.838-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:40:39.838-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:40:39.866-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:40:39.914-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:40:39.914-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:40:39.917-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:40:39.917-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T03:40:39.924-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.088 seconds
+[2024-03-18T03:42:26.538-0400] {processor.py:161} INFO - Started process (PID=77439) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:42:26.539-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T03:42:26.540-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:42:26.539-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:42:26.567-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:42:26.614-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:42:26.614-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:42:26.617-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:42:26.617-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T03:42:26.624-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.087 seconds
+[2024-03-18T03:44:06.613-0400] {processor.py:161} INFO - Started process (PID=77530) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:44:06.614-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T03:44:06.614-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:44:06.614-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:44:06.642-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:44:06.689-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:44:06.689-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:44:06.693-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:44:06.693-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T03:44:06.699-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.087 seconds
+[2024-03-18T03:45:51.806-0400] {processor.py:161} INFO - Started process (PID=77634) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:45:51.806-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T03:45:51.807-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:45:51.807-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:45:51.835-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:45:51.885-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:45:51.885-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:45:51.888-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:45:51.888-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T03:45:51.895-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.090 seconds
+[2024-03-18T03:47:37.770-0400] {processor.py:161} INFO - Started process (PID=77740) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:47:37.771-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T03:47:37.771-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:47:37.771-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:47:37.799-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:47:37.847-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:47:37.847-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:47:37.850-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:47:37.850-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T03:47:37.857-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.088 seconds
+[2024-03-18T03:49:23.936-0400] {processor.py:161} INFO - Started process (PID=77834) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:49:23.936-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T03:49:23.937-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:49:23.937-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:49:23.964-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:49:24.012-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:49:24.012-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:49:24.015-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:49:24.015-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T03:49:24.022-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.087 seconds
+[2024-03-18T03:51:04.039-0400] {processor.py:161} INFO - Started process (PID=77977) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:51:04.040-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T03:51:04.040-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:51:04.040-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:51:04.067-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:51:04.115-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:51:04.115-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:51:04.119-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:51:04.119-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T03:51:04.126-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.088 seconds
+[2024-03-18T03:52:49.878-0400] {processor.py:161} INFO - Started process (PID=78188) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:52:49.879-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T03:52:49.879-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:52:49.879-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:52:49.907-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T03:52:49.954-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:52:49.954-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:52:49.958-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:52:49.958-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T03:52:49.964-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.087 seconds
+[2024-03-18T04:09:36.130-0400] {processor.py:161} INFO - Started process (PID=78464) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T04:09:36.132-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T04:09:36.132-0400] {logging_mixin.py:188} INFO - [2024-03-18T04:09:36.132-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T04:09:36.160-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T04:09:36.208-0400] {logging_mixin.py:188} INFO - [2024-03-18T04:09:36.208-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T04:09:36.211-0400] {logging_mixin.py:188} INFO - [2024-03-18T04:09:36.211-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T04:09:36.218-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2024-03-18T04:28:03.917-0400] {processor.py:161} INFO - Started process (PID=78725) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T04:28:03.918-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T04:28:03.919-0400] {logging_mixin.py:188} INFO - [2024-03-18T04:28:03.918-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T04:28:03.947-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T04:28:03.994-0400] {logging_mixin.py:188} INFO - [2024-03-18T04:28:03.994-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T04:28:03.998-0400] {logging_mixin.py:188} INFO - [2024-03-18T04:28:03.998-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T04:28:04.005-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2024-03-18T04:37:05.760-0400] {processor.py:161} INFO - Started process (PID=78858) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T04:37:05.761-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T04:37:05.761-0400] {logging_mixin.py:188} INFO - [2024-03-18T04:37:05.761-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T04:37:05.789-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T04:37:05.837-0400] {logging_mixin.py:188} INFO - [2024-03-18T04:37:05.837-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T04:37:05.841-0400] {logging_mixin.py:188} INFO - [2024-03-18T04:37:05.841-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T04:37:05.848-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2024-03-18T04:57:03.315-0400] {processor.py:161} INFO - Started process (PID=79212) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T04:57:03.316-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T04:57:03.316-0400] {logging_mixin.py:188} INFO - [2024-03-18T04:57:03.316-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T04:57:03.345-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T04:57:03.396-0400] {logging_mixin.py:188} INFO - [2024-03-18T04:57:03.396-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T04:57:03.400-0400] {logging_mixin.py:188} INFO - [2024-03-18T04:57:03.400-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T04:57:03.407-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.093 seconds
+[2024-03-18T04:59:06.485-0400] {processor.py:161} INFO - Started process (PID=79390) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T04:59:06.486-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T04:59:06.486-0400] {logging_mixin.py:188} INFO - [2024-03-18T04:59:06.486-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T04:59:06.514-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T04:59:06.562-0400] {logging_mixin.py:188} INFO - [2024-03-18T04:59:06.561-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T04:59:06.565-0400] {logging_mixin.py:188} INFO - [2024-03-18T04:59:06.565-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T04:59:06.572-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.088 seconds
+[2024-03-18T05:00:48.520-0400] {processor.py:161} INFO - Started process (PID=79480) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T05:00:48.521-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T05:00:48.521-0400] {logging_mixin.py:188} INFO - [2024-03-18T05:00:48.521-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T05:00:48.548-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T05:00:48.596-0400] {logging_mixin.py:188} INFO - [2024-03-18T05:00:48.596-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T05:00:48.599-0400] {logging_mixin.py:188} INFO - [2024-03-18T05:00:48.599-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T05:00:48.606-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.087 seconds
+[2024-03-18T05:17:51.067-0400] {processor.py:161} INFO - Started process (PID=79731) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T05:17:51.068-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T05:17:51.069-0400] {logging_mixin.py:188} INFO - [2024-03-18T05:17:51.069-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T05:17:51.097-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T05:17:51.145-0400] {logging_mixin.py:188} INFO - [2024-03-18T05:17:51.145-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T05:17:51.148-0400] {logging_mixin.py:188} INFO - [2024-03-18T05:17:51.148-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T05:17:51.155-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2024-03-18T05:19:37.030-0400] {processor.py:161} INFO - Started process (PID=79842) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T05:19:37.031-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T05:19:37.031-0400] {logging_mixin.py:188} INFO - [2024-03-18T05:19:37.031-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T05:19:37.060-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T05:19:37.109-0400] {logging_mixin.py:188} INFO - [2024-03-18T05:19:37.109-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T05:19:37.113-0400] {logging_mixin.py:188} INFO - [2024-03-18T05:19:37.113-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T05:19:37.120-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.091 seconds
+[2024-03-18T05:52:27.847-0400] {processor.py:161} INFO - Started process (PID=80232) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T05:52:27.848-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T05:52:27.849-0400] {logging_mixin.py:188} INFO - [2024-03-18T05:52:27.849-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T05:52:27.877-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T05:52:27.925-0400] {logging_mixin.py:188} INFO - [2024-03-18T05:52:27.925-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T05:52:27.929-0400] {logging_mixin.py:188} INFO - [2024-03-18T05:52:27.929-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T05:52:27.936-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2024-03-18T05:54:30.396-0400] {processor.py:161} INFO - Started process (PID=80532) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T05:54:30.397-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T05:54:30.398-0400] {logging_mixin.py:188} INFO - [2024-03-18T05:54:30.398-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T05:54:30.426-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T05:54:30.473-0400] {logging_mixin.py:188} INFO - [2024-03-18T05:54:30.473-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T05:54:30.477-0400] {logging_mixin.py:188} INFO - [2024-03-18T05:54:30.476-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T05:54:30.483-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.087 seconds
+[2024-03-18T06:12:27.081-0400] {processor.py:161} INFO - Started process (PID=80851) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T06:12:27.083-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T06:12:27.083-0400] {logging_mixin.py:188} INFO - [2024-03-18T06:12:27.083-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T06:12:28.600-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T06:12:32.198-0400] {logging_mixin.py:188} INFO - [2024-03-18T06:12:32.198-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T06:12:32.362-0400] {logging_mixin.py:188} INFO - [2024-03-18T06:12:32.357-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T06:12:32.476-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 5.395 seconds
+[2024-03-18T06:19:15.901-0400] {processor.py:161} INFO - Started process (PID=80977) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T06:19:15.902-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T06:19:15.902-0400] {logging_mixin.py:188} INFO - [2024-03-18T06:19:15.902-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T06:19:15.931-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T06:19:15.982-0400] {logging_mixin.py:188} INFO - [2024-03-18T06:19:15.982-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T06:19:15.986-0400] {logging_mixin.py:188} INFO - [2024-03-18T06:19:15.985-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T06:19:15.993-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.092 seconds
+[2024-03-18T06:37:12.271-0400] {processor.py:161} INFO - Started process (PID=81244) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T06:37:12.272-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T06:37:12.272-0400] {logging_mixin.py:188} INFO - [2024-03-18T06:37:12.272-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T06:37:12.300-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T06:37:12.348-0400] {logging_mixin.py:188} INFO - [2024-03-18T06:37:12.348-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T06:37:12.352-0400] {logging_mixin.py:188} INFO - [2024-03-18T06:37:12.351-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T06:37:12.358-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.088 seconds
+[2024-03-18T06:38:59.501-0400] {processor.py:161} INFO - Started process (PID=81350) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T06:38:59.503-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T06:38:59.503-0400] {logging_mixin.py:188} INFO - [2024-03-18T06:38:59.503-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T06:38:59.530-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T06:38:59.580-0400] {logging_mixin.py:188} INFO - [2024-03-18T06:38:59.580-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T06:38:59.584-0400] {logging_mixin.py:188} INFO - [2024-03-18T06:38:59.584-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T06:38:59.592-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.091 seconds
+[2024-03-18T06:53:48.830-0400] {processor.py:161} INFO - Started process (PID=81616) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T06:53:48.831-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T06:53:48.832-0400] {logging_mixin.py:188} INFO - [2024-03-18T06:53:48.832-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T06:53:48.859-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T06:53:48.907-0400] {logging_mixin.py:188} INFO - [2024-03-18T06:53:48.907-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T06:53:48.911-0400] {logging_mixin.py:188} INFO - [2024-03-18T06:53:48.911-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T06:53:48.918-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2024-03-18T06:58:29.152-0400] {processor.py:161} INFO - Started process (PID=81820) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T06:58:29.153-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T06:58:29.153-0400] {logging_mixin.py:188} INFO - [2024-03-18T06:58:29.153-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T06:58:29.181-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T06:58:29.228-0400] {logging_mixin.py:188} INFO - [2024-03-18T06:58:29.228-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T06:58:29.232-0400] {logging_mixin.py:188} INFO - [2024-03-18T06:58:29.232-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T06:58:29.239-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.088 seconds
+[2024-03-18T07:00:05.406-0400] {processor.py:161} INFO - Started process (PID=81897) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T07:00:05.407-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T07:00:05.407-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:00:05.407-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T07:00:05.435-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T07:00:05.485-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:00:05.485-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T07:00:05.488-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:00:05.488-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T07:00:05.495-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2024-03-18T07:04:25.813-0400] {processor.py:161} INFO - Started process (PID=82113) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T07:04:25.813-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T07:04:25.814-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:04:25.814-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T07:04:25.842-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T07:04:25.890-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:04:25.890-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T07:04:25.893-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:04:25.893-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T07:04:25.900-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.088 seconds
+[2024-03-18T07:08:51.357-0400] {processor.py:161} INFO - Started process (PID=82234) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T07:08:51.358-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T07:08:51.358-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:08:51.358-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T07:08:51.386-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T07:08:51.434-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:08:51.434-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T07:08:51.438-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:08:51.438-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T07:08:51.445-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.088 seconds
+[2024-03-18T07:10:42.352-0400] {processor.py:161} INFO - Started process (PID=82323) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T07:10:42.353-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T07:10:42.353-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:10:42.353-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T07:10:42.381-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T07:10:42.429-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:10:42.429-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T07:10:42.433-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:10:42.433-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T07:10:42.440-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2024-03-18T07:28:34.470-0400] {processor.py:161} INFO - Started process (PID=82656) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T07:28:34.471-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T07:28:34.472-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:28:34.472-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T07:28:34.499-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T07:28:34.547-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:28:34.547-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T07:28:34.551-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:28:34.551-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T07:28:34.558-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2024-03-18T07:30:22.282-0400] {processor.py:161} INFO - Started process (PID=82794) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T07:30:22.283-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T07:30:22.283-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:30:22.283-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T07:30:22.312-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T07:30:22.360-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:30:22.360-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T07:30:22.364-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:30:22.364-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T07:30:22.370-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2024-03-18T07:32:10.407-0400] {processor.py:161} INFO - Started process (PID=82904) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T07:32:10.407-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T07:32:10.408-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:32:10.407-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T07:32:10.435-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T07:32:10.483-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:32:10.483-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T07:32:10.487-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:32:10.487-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T07:32:10.493-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.088 seconds
+[2024-03-18T07:33:54.151-0400] {processor.py:161} INFO - Started process (PID=82995) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T07:33:54.152-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T07:33:54.152-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:33:54.152-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T07:33:54.180-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T07:33:54.228-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:33:54.228-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T07:33:54.232-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:33:54.231-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T07:33:54.238-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.088 seconds
+[2024-03-18T07:50:59.175-0400] {processor.py:161} INFO - Started process (PID=83290) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T07:50:59.177-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T07:50:59.177-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:50:59.177-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T07:50:59.205-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T07:50:59.253-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:50:59.253-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T07:50:59.256-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:50:59.256-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T07:50:59.263-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2024-03-18T08:08:24.039-0400] {processor.py:161} INFO - Started process (PID=83580) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:08:24.040-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T08:08:24.040-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:08:24.040-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:08:24.069-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:08:24.117-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:08:24.117-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:08:24.121-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:08:24.121-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T08:08:24.128-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.090 seconds
+[2024-03-18T08:16:58.475-0400] {processor.py:161} INFO - Started process (PID=83769) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:16:58.476-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T08:16:58.476-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:16:58.476-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:16:58.504-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:16:58.559-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:16:58.559-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:16:58.563-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:16:58.563-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T08:16:58.570-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.096 seconds
+[2024-03-18T08:18:43.465-0400] {processor.py:161} INFO - Started process (PID=83954) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:18:43.466-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T08:18:43.466-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:18:43.466-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:18:43.496-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:18:43.547-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:18:43.547-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:18:43.551-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:18:43.550-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T08:18:43.557-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.094 seconds
+[2024-03-18T08:29:09.753-0400] {processor.py:161} INFO - Started process (PID=84361) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:29:09.755-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T08:29:09.755-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:29:09.755-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:29:09.783-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:29:09.831-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:29:09.831-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:29:09.835-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:29:09.835-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T08:29:09.842-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.089 seconds
+[2024-03-18T08:31:05.864-0400] {processor.py:161} INFO - Started process (PID=84532) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:31:05.865-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T08:31:05.866-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:31:05.866-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:31:05.897-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:31:05.949-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:31:05.949-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:31:05.953-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:31:05.953-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T08:31:05.960-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.097 seconds
+[2024-03-18T08:32:58.706-0400] {processor.py:161} INFO - Started process (PID=84654) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:32:58.707-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T08:32:58.707-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:32:58.707-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:32:58.738-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:32:58.792-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:32:58.792-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:32:58.796-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:32:58.796-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T08:32:58.803-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.099 seconds
+[2024-03-18T08:34:50.568-0400] {processor.py:161} INFO - Started process (PID=84825) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:34:50.569-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T08:34:50.569-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:34:50.569-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:34:50.605-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:34:50.662-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:34:50.662-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:34:50.666-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:34:50.666-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T08:34:50.675-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.108 seconds
+[2024-03-18T08:36:46.158-0400] {processor.py:161} INFO - Started process (PID=85046) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:36:46.159-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T08:36:46.159-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:36:46.159-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:36:46.353-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:36:46.423-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:36:46.423-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:36:46.427-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:36:46.427-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T08:36:46.435-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.279 seconds
+[2024-03-18T08:38:33.488-0400] {processor.py:161} INFO - Started process (PID=85199) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:38:33.489-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T08:38:33.490-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:38:33.490-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:38:33.521-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:38:33.573-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:38:33.573-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:38:33.577-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:38:33.577-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T08:38:33.585-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.098 seconds
+[2024-03-18T08:40:22.831-0400] {processor.py:161} INFO - Started process (PID=85334) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:40:22.832-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T08:40:22.832-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:40:22.832-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:40:22.861-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:40:22.910-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:40:22.910-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:40:22.914-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:40:22.914-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T08:40:22.923-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.093 seconds
+[2024-03-18T08:42:08.729-0400] {processor.py:161} INFO - Started process (PID=85463) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:42:08.731-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T08:42:08.731-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:42:08.731-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:42:08.764-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:42:08.826-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:42:08.826-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:42:08.831-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:42:08.831-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T08:42:08.840-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.113 seconds
+[2024-03-18T08:43:57.135-0400] {processor.py:161} INFO - Started process (PID=85603) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:43:57.136-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T08:43:57.137-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:43:57.137-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:43:57.170-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:43:57.226-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:43:57.226-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:43:57.230-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:43:57.230-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T08:43:57.238-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.104 seconds
+[2024-03-18T08:45:52.033-0400] {processor.py:161} INFO - Started process (PID=85778) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:45:52.034-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T08:45:52.034-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:45:52.034-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:45:52.068-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:45:52.124-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:45:52.124-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:45:52.128-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:45:52.128-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T08:45:52.136-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.105 seconds
+[2024-03-18T08:47:44.150-0400] {processor.py:161} INFO - Started process (PID=85995) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:47:44.151-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T08:47:44.152-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:47:44.151-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:47:44.184-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:47:44.237-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:47:44.237-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:47:44.241-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:47:44.240-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T08:47:44.249-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.100 seconds
+[2024-03-18T08:49:38.873-0400] {processor.py:161} INFO - Started process (PID=86171) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:49:38.874-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T08:49:38.875-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:49:38.874-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:49:38.906-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:49:38.959-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:49:38.959-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:49:38.963-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:49:38.963-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T08:49:38.972-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.100 seconds
+[2024-03-18T08:51:34.140-0400] {processor.py:161} INFO - Started process (PID=86309) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:51:34.142-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T08:51:34.142-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:51:34.142-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:51:34.178-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:51:34.233-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:51:34.233-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:51:34.238-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:51:34.238-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T08:51:34.246-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.106 seconds
+[2024-03-18T08:53:26.888-0400] {processor.py:161} INFO - Started process (PID=86425) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:53:26.890-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T08:53:26.890-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:53:26.890-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:53:26.922-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:53:26.974-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:53:26.974-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:53:26.978-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:53:26.978-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T08:53:26.988-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.101 seconds
+[2024-03-18T08:55:55.585-0400] {processor.py:161} INFO - Started process (PID=86594) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:55:55.586-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T08:55:55.587-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:55:55.587-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:55:55.624-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:55:55.682-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:55:55.682-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:55:55.686-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:55:55.686-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T08:55:55.695-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.111 seconds
+[2024-03-18T08:57:56.245-0400] {processor.py:161} INFO - Started process (PID=86739) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:57:56.245-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T08:57:56.246-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:57:56.246-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:57:56.277-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:57:56.328-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:57:56.328-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:57:56.332-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:57:56.332-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T08:57:56.340-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.096 seconds
+[2024-03-18T08:59:51.251-0400] {processor.py:161} INFO - Started process (PID=86947) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:59:51.253-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T08:59:51.253-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:59:51.253-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:59:51.284-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T08:59:51.338-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:59:51.338-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:59:51.342-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:59:51.341-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T08:59:51.350-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.099 seconds
+[2024-03-18T09:01:41.587-0400] {processor.py:161} INFO - Started process (PID=87077) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T09:01:41.588-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T09:01:41.588-0400] {logging_mixin.py:188} INFO - [2024-03-18T09:01:41.588-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T09:01:41.619-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T09:01:41.671-0400] {logging_mixin.py:188} INFO - [2024-03-18T09:01:41.671-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T09:01:41.675-0400] {logging_mixin.py:188} INFO - [2024-03-18T09:01:41.675-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T09:01:41.683-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.097 seconds
+[2024-03-18T09:03:26.559-0400] {processor.py:161} INFO - Started process (PID=87200) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T09:03:26.560-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-03-18T09:03:26.560-0400] {logging_mixin.py:188} INFO - [2024-03-18T09:03:26.560-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T09:03:26.590-0400] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-03-18T09:03:26.640-0400] {logging_mixin.py:188} INFO - [2024-03-18T09:03:26.640-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T09:03:26.644-0400] {logging_mixin.py:188} INFO - [2024-03-18T09:03:26.644-0400] {dag.py:3834} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-03-18T09:03:26.652-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.093 seconds

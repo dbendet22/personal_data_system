@@ -1,0 +1,931 @@
+[2024-03-17T20:01:13.571-0400] {processor.py:161} INFO - Started process (PID=60040) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:01:13.571-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T20:01:13.572-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:01:13.572-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:01:13.675-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:01:13.759-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:01:13.759-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:01:13.763-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:01:13.762-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T20:01:13.770-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.200 seconds
+[2024-03-17T20:03:03.349-0400] {processor.py:161} INFO - Started process (PID=60139) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:03:03.351-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T20:03:03.351-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:03:03.351-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:03:03.455-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:03:03.539-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:03:03.539-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:03:03.543-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:03:03.543-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T20:03:03.550-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.201 seconds
+[2024-03-17T20:04:50.124-0400] {processor.py:161} INFO - Started process (PID=60251) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:04:50.125-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T20:04:50.125-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:04:50.125-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:04:50.228-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:04:50.311-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:04:50.311-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:04:50.315-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:04:50.315-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T20:04:50.321-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.198 seconds
+[2024-03-17T20:06:33.843-0400] {processor.py:161} INFO - Started process (PID=60405) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:06:33.844-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T20:06:33.844-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:06:33.844-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:06:33.967-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:06:34.060-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:06:34.060-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:06:34.063-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:06:34.063-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T20:06:34.070-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.227 seconds
+[2024-03-17T20:08:20.416-0400] {processor.py:161} INFO - Started process (PID=60500) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:08:20.417-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T20:08:20.418-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:08:20.417-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:08:20.526-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:08:20.614-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:08:20.613-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:08:20.617-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:08:20.617-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T20:08:20.623-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.208 seconds
+[2024-03-17T20:10:07.779-0400] {processor.py:161} INFO - Started process (PID=60734) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:10:07.780-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T20:10:07.780-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:10:07.780-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:10:07.888-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:10:07.972-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:10:07.971-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:10:07.975-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:10:07.975-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T20:10:07.982-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.203 seconds
+[2024-03-17T20:11:54.960-0400] {processor.py:161} INFO - Started process (PID=60830) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:11:54.961-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T20:11:54.961-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:11:54.961-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:11:55.074-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:11:55.169-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:11:55.169-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:11:55.172-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:11:55.172-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T20:11:55.181-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.222 seconds
+[2024-03-17T20:13:52.543-0400] {processor.py:161} INFO - Started process (PID=61290) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:13:52.544-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T20:13:52.545-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:13:52.545-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:13:52.657-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:13:52.742-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:13:52.742-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:13:52.746-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:13:52.746-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T20:13:52.753-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.211 seconds
+[2024-03-17T20:15:51.089-0400] {processor.py:161} INFO - Started process (PID=62049) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:15:51.090-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T20:15:51.090-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:15:51.090-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:15:51.214-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:15:51.305-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:15:51.305-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:15:51.309-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:15:51.309-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T20:15:51.317-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.228 seconds
+[2024-03-17T20:17:41.262-0400] {processor.py:161} INFO - Started process (PID=62221) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:17:41.263-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T20:17:41.263-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:17:41.263-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:17:41.384-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:17:41.476-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:17:41.476-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:17:41.480-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:17:41.479-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T20:17:41.487-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.227 seconds
+[2024-03-17T20:19:31.390-0400] {processor.py:161} INFO - Started process (PID=62392) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:19:31.390-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T20:19:31.391-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:19:31.391-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:19:31.506-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:19:31.601-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:19:31.601-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:19:31.605-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:19:31.605-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T20:19:31.613-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.224 seconds
+[2024-03-17T20:21:25.522-0400] {processor.py:161} INFO - Started process (PID=62560) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:21:25.524-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T20:21:25.524-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:21:25.524-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:21:25.627-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:21:25.712-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:21:25.712-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:21:25.716-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:21:25.716-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T20:21:25.723-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.201 seconds
+[2024-03-17T20:23:17.425-0400] {processor.py:161} INFO - Started process (PID=62799) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:23:17.426-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T20:23:17.426-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:23:17.426-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:23:17.535-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:23:17.619-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:23:17.619-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:23:17.623-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:23:17.623-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T20:23:17.630-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.206 seconds
+[2024-03-17T20:25:06.704-0400] {processor.py:161} INFO - Started process (PID=62986) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:25:06.705-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T20:25:06.705-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:25:06.705-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:25:06.815-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:25:06.901-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:25:06.901-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:25:06.904-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:25:06.904-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T20:25:06.911-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.208 seconds
+[2024-03-17T20:26:57.413-0400] {processor.py:161} INFO - Started process (PID=63097) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:26:57.414-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T20:26:57.414-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:26:57.414-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:26:57.533-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:26:57.626-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:26:57.626-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:26:57.629-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:26:57.629-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T20:26:57.637-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.226 seconds
+[2024-03-17T20:28:45.724-0400] {processor.py:161} INFO - Started process (PID=63315) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:28:45.726-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T20:28:45.726-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:28:45.726-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:28:45.835-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:28:45.920-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:28:45.919-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:28:45.923-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:28:45.923-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T20:28:45.930-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.206 seconds
+[2024-03-17T20:30:36.977-0400] {processor.py:161} INFO - Started process (PID=63448) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:30:36.978-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T20:30:36.978-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:30:36.978-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:30:37.088-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:30:37.175-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:30:37.174-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:30:37.179-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:30:37.178-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T20:30:37.189-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.213 seconds
+[2024-03-17T20:32:27.105-0400] {processor.py:161} INFO - Started process (PID=63558) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:32:27.107-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T20:32:27.107-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:32:27.107-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:32:27.216-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:32:27.307-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:32:27.306-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:32:27.310-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:32:27.310-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T20:32:27.318-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.214 seconds
+[2024-03-17T20:51:17.072-0400] {processor.py:161} INFO - Started process (PID=63947) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:51:17.073-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T20:51:17.073-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:51:17.073-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:51:17.185-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T20:51:17.271-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:51:17.271-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T20:51:17.274-0400] {logging_mixin.py:188} INFO - [2024-03-17T20:51:17.274-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T20:51:17.281-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.210 seconds
+[2024-03-17T21:08:35.581-0400] {processor.py:161} INFO - Started process (PID=64235) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T21:08:35.581-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T21:08:35.582-0400] {logging_mixin.py:188} INFO - [2024-03-17T21:08:35.581-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T21:08:35.699-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T21:08:35.788-0400] {logging_mixin.py:188} INFO - [2024-03-17T21:08:35.787-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T21:08:35.791-0400] {logging_mixin.py:188} INFO - [2024-03-17T21:08:35.791-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T21:08:35.799-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.219 seconds
+[2024-03-17T21:26:50.052-0400] {processor.py:161} INFO - Started process (PID=64623) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T21:26:50.054-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T21:26:50.054-0400] {logging_mixin.py:188} INFO - [2024-03-17T21:26:50.054-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T21:26:50.162-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T21:26:50.249-0400] {logging_mixin.py:188} INFO - [2024-03-17T21:26:50.249-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T21:26:50.253-0400] {logging_mixin.py:188} INFO - [2024-03-17T21:26:50.253-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T21:26:50.260-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.208 seconds
+[2024-03-17T21:29:31.772-0400] {processor.py:161} INFO - Started process (PID=64847) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T21:29:31.772-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T21:29:31.773-0400] {logging_mixin.py:188} INFO - [2024-03-17T21:29:31.773-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T21:29:31.893-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T21:29:31.984-0400] {logging_mixin.py:188} INFO - [2024-03-17T21:29:31.984-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T21:29:31.988-0400] {logging_mixin.py:188} INFO - [2024-03-17T21:29:31.988-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T21:29:31.997-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.226 seconds
+[2024-03-17T21:31:09.164-0400] {processor.py:161} INFO - Started process (PID=64966) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T21:31:09.165-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T21:31:09.165-0400] {logging_mixin.py:188} INFO - [2024-03-17T21:31:09.165-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T21:31:09.268-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T21:31:09.352-0400] {logging_mixin.py:188} INFO - [2024-03-17T21:31:09.351-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T21:31:09.355-0400] {logging_mixin.py:188} INFO - [2024-03-17T21:31:09.355-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T21:31:09.362-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.198 seconds
+[2024-03-17T21:59:03.489-0400] {processor.py:161} INFO - Started process (PID=65629) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T21:59:03.490-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T21:59:03.490-0400] {logging_mixin.py:188} INFO - [2024-03-17T21:59:03.490-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T21:59:03.597-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T21:59:03.684-0400] {logging_mixin.py:188} INFO - [2024-03-17T21:59:03.683-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T21:59:03.687-0400] {logging_mixin.py:188} INFO - [2024-03-17T21:59:03.687-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T21:59:03.694-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.206 seconds
+[2024-03-17T22:16:47.688-0400] {processor.py:161} INFO - Started process (PID=65916) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T22:16:47.688-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T22:16:47.689-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:16:47.689-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T22:16:47.802-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T22:16:47.894-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:16:47.893-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T22:16:47.897-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:16:47.897-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T22:16:47.905-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.218 seconds
+[2024-03-17T22:18:47.696-0400] {processor.py:161} INFO - Started process (PID=66148) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T22:18:47.697-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T22:18:47.698-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:18:47.697-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T22:18:47.801-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T22:18:47.888-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:18:47.888-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T22:18:47.893-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:18:47.892-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T22:18:47.901-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.205 seconds
+[2024-03-17T22:20:31.521-0400] {processor.py:161} INFO - Started process (PID=66287) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T22:20:31.522-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T22:20:31.522-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:20:31.522-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T22:20:31.631-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T22:20:31.717-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:20:31.717-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T22:20:31.721-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:20:31.720-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T22:20:31.727-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.207 seconds
+[2024-03-17T22:22:12.532-0400] {processor.py:161} INFO - Started process (PID=66389) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T22:22:12.532-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T22:22:12.533-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:22:12.533-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T22:22:12.641-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T22:22:12.733-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:22:12.733-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T22:22:12.737-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:22:12.737-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T22:22:12.749-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.218 seconds
+[2024-03-17T22:23:56.752-0400] {processor.py:161} INFO - Started process (PID=66550) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T22:23:56.754-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T22:23:56.754-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:23:56.754-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T22:23:56.858-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T22:23:56.941-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:23:56.941-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T22:23:56.944-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:23:56.944-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T22:23:56.951-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.199 seconds
+[2024-03-17T22:25:37.367-0400] {processor.py:161} INFO - Started process (PID=66667) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T22:25:37.367-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T22:25:37.368-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:25:37.368-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T22:25:37.481-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T22:25:37.570-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:25:37.569-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T22:25:37.573-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:25:37.573-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T22:25:37.581-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.215 seconds
+[2024-03-17T22:27:23.635-0400] {processor.py:161} INFO - Started process (PID=66763) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T22:27:23.636-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T22:27:23.639-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:27:23.639-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T22:27:23.744-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T22:27:23.828-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:27:23.828-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T22:27:23.831-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:27:23.831-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T22:27:23.838-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.204 seconds
+[2024-03-17T22:29:08.435-0400] {processor.py:161} INFO - Started process (PID=66895) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T22:29:08.437-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T22:29:08.437-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:29:08.437-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T22:29:08.544-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T22:29:08.629-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:29:08.629-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T22:29:08.633-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:29:08.633-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T22:29:08.640-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.206 seconds
+[2024-03-17T22:30:53.203-0400] {processor.py:161} INFO - Started process (PID=67030) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T22:30:53.204-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T22:30:53.204-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:30:53.204-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T22:30:53.314-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T22:30:53.401-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:30:53.401-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T22:30:53.404-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:30:53.404-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T22:30:53.412-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.209 seconds
+[2024-03-17T22:32:39.636-0400] {processor.py:161} INFO - Started process (PID=67128) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T22:32:39.637-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T22:32:39.637-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:32:39.637-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T22:32:39.746-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T22:32:39.830-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:32:39.830-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T22:32:39.834-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:32:39.833-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T22:32:39.840-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.205 seconds
+[2024-03-17T22:34:24.677-0400] {processor.py:161} INFO - Started process (PID=67299) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T22:34:24.677-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T22:34:24.678-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:34:24.678-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T22:34:24.785-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T22:34:24.870-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:34:24.870-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T22:34:24.873-0400] {logging_mixin.py:188} INFO - [2024-03-17T22:34:24.873-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T22:34:24.880-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.204 seconds
+[2024-03-17T23:06:52.272-0400] {processor.py:161} INFO - Started process (PID=67756) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T23:06:52.272-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T23:06:52.273-0400] {logging_mixin.py:188} INFO - [2024-03-17T23:06:52.273-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T23:06:52.382-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T23:06:52.471-0400] {logging_mixin.py:188} INFO - [2024-03-17T23:06:52.471-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T23:06:52.475-0400] {logging_mixin.py:188} INFO - [2024-03-17T23:06:52.475-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T23:06:52.482-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.211 seconds
+[2024-03-17T23:09:06.984-0400] {processor.py:161} INFO - Started process (PID=67953) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T23:09:06.985-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T23:09:06.985-0400] {logging_mixin.py:188} INFO - [2024-03-17T23:09:06.985-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T23:09:07.098-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T23:09:07.187-0400] {logging_mixin.py:188} INFO - [2024-03-17T23:09:07.186-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T23:09:07.191-0400] {logging_mixin.py:188} INFO - [2024-03-17T23:09:07.191-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T23:09:07.198-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.215 seconds
+[2024-03-17T23:43:07.406-0400] {processor.py:161} INFO - Started process (PID=68363) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T23:43:07.407-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T23:43:07.407-0400] {logging_mixin.py:188} INFO - [2024-03-17T23:43:07.407-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T23:43:07.515-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T23:43:07.600-0400] {logging_mixin.py:188} INFO - [2024-03-17T23:43:07.600-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T23:43:07.604-0400] {logging_mixin.py:188} INFO - [2024-03-17T23:43:07.603-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T23:43:07.610-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.205 seconds
+[2024-03-17T23:45:05.792-0400] {processor.py:161} INFO - Started process (PID=68565) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T23:45:05.793-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-17T23:45:05.793-0400] {logging_mixin.py:188} INFO - [2024-03-17T23:45:05.793-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T23:45:05.900-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-17T23:45:05.985-0400] {logging_mixin.py:188} INFO - [2024-03-17T23:45:05.985-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-17T23:45:05.988-0400] {logging_mixin.py:188} INFO - [2024-03-17T23:45:05.988-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-17T23:45:05.995-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.203 seconds
+[2024-03-18T00:03:24.065-0400] {processor.py:161} INFO - Started process (PID=68936) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T00:03:24.066-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T00:03:24.066-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:03:24.066-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T00:03:24.170-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T00:03:24.244-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:03:24.244-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T00:03:24.247-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:03:24.247-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T00:03:24.254-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.190 seconds
+[2024-03-18T00:09:05.126-0400] {processor.py:161} INFO - Started process (PID=69168) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T00:09:05.127-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T00:09:05.128-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:09:05.128-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T00:09:05.229-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T00:09:05.305-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:09:05.305-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T00:09:05.309-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:09:05.309-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T00:09:05.316-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.191 seconds
+[2024-03-18T00:26:52.039-0400] {processor.py:161} INFO - Started process (PID=69599) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T00:26:52.040-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T00:26:52.040-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:26:52.040-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T00:26:52.167-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T00:26:52.251-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:26:52.251-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T00:26:52.255-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:26:52.255-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T00:26:52.264-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.226 seconds
+[2024-03-18T00:28:46.176-0400] {processor.py:161} INFO - Started process (PID=70012) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T00:28:46.177-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T00:28:46.177-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:28:46.177-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T00:28:46.279-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T00:28:46.355-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:28:46.355-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T00:28:46.358-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:28:46.358-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T00:28:46.366-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.191 seconds
+[2024-03-18T00:30:34.380-0400] {processor.py:161} INFO - Started process (PID=70117) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T00:30:34.381-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T00:30:34.381-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:30:34.381-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T00:30:34.488-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T00:30:34.573-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:30:34.573-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T00:30:34.576-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:30:34.576-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T00:30:34.583-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.204 seconds
+[2024-03-18T00:48:57.233-0400] {processor.py:161} INFO - Started process (PID=70420) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T00:48:57.234-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T00:48:57.234-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:48:57.234-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T00:48:57.341-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T00:48:57.426-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:48:57.426-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T00:48:57.429-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:48:57.429-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T00:48:57.436-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.203 seconds
+[2024-03-18T00:50:41.072-0400] {processor.py:161} INFO - Started process (PID=71886) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T00:50:41.073-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T00:50:41.073-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:50:41.073-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T00:50:41.182-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T00:50:41.259-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:50:41.258-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T00:50:41.262-0400] {logging_mixin.py:188} INFO - [2024-03-18T00:50:41.262-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T00:50:41.270-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.198 seconds
+[2024-03-18T01:09:14.745-0400] {processor.py:161} INFO - Started process (PID=72320) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T01:09:14.745-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T01:09:14.746-0400] {logging_mixin.py:188} INFO - [2024-03-18T01:09:14.746-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T01:09:14.856-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T01:09:14.944-0400] {logging_mixin.py:188} INFO - [2024-03-18T01:09:14.943-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T01:09:14.947-0400] {logging_mixin.py:188} INFO - [2024-03-18T01:09:14.947-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T01:09:14.954-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.210 seconds
+[2024-03-18T01:43:34.046-0400] {processor.py:161} INFO - Started process (PID=72761) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T01:43:34.047-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T01:43:34.047-0400] {logging_mixin.py:188} INFO - [2024-03-18T01:43:34.047-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T01:43:34.152-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T01:43:34.236-0400] {logging_mixin.py:188} INFO - [2024-03-18T01:43:34.236-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T01:43:34.240-0400] {logging_mixin.py:188} INFO - [2024-03-18T01:43:34.240-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T01:43:34.246-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.200 seconds
+[2024-03-18T02:01:20.596-0400] {processor.py:161} INFO - Started process (PID=73100) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T02:01:20.597-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T02:01:20.597-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:01:20.597-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T02:01:20.704-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T02:01:20.787-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:01:20.787-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T02:01:20.791-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:01:20.791-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T02:01:20.797-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.202 seconds
+[2024-03-18T02:19:01.117-0400] {processor.py:161} INFO - Started process (PID=73371) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T02:19:01.117-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T02:19:01.118-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:19:01.117-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T02:19:01.220-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T02:19:01.305-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:19:01.305-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T02:19:01.310-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:19:01.310-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T02:19:01.318-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.202 seconds
+[2024-03-18T02:20:44.635-0400] {processor.py:161} INFO - Started process (PID=73553) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T02:20:44.636-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T02:20:44.636-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:20:44.636-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T02:20:44.738-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T02:20:44.822-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:20:44.822-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T02:20:44.825-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:20:44.825-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T02:20:44.832-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.197 seconds
+[2024-03-18T02:53:16.188-0400] {processor.py:161} INFO - Started process (PID=73980) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T02:53:16.188-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T02:53:16.189-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:53:16.188-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T02:53:16.307-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T02:53:16.505-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:53:16.505-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T02:53:16.508-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:53:16.508-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T02:53:16.516-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.328 seconds
+[2024-03-18T02:55:15.351-0400] {processor.py:161} INFO - Started process (PID=74089) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T02:55:15.351-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T02:55:15.352-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:55:15.352-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T02:55:15.460-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T02:55:15.543-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:55:15.543-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T02:55:15.547-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:55:15.547-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T02:55:15.553-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.203 seconds
+[2024-03-18T02:57:01.888-0400] {processor.py:161} INFO - Started process (PID=74208) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T02:57:01.889-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T02:57:01.889-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:57:01.889-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T02:57:01.992-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T02:57:02.075-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:57:02.075-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T02:57:02.079-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:57:02.079-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T02:57:02.085-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.197 seconds
+[2024-03-18T02:58:45.862-0400] {processor.py:161} INFO - Started process (PID=74293) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T02:58:45.863-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T02:58:45.863-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:58:45.863-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T02:58:45.970-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T02:58:46.056-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:58:46.056-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T02:58:46.059-0400] {logging_mixin.py:188} INFO - [2024-03-18T02:58:46.059-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T02:58:46.066-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.205 seconds
+[2024-03-18T03:00:31.569-0400] {processor.py:161} INFO - Started process (PID=74388) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:00:31.569-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T03:00:31.570-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:00:31.569-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:00:31.673-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:00:31.761-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:00:31.761-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:00:31.764-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:00:31.764-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T03:00:31.771-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.203 seconds
+[2024-03-18T03:02:18.416-0400] {processor.py:161} INFO - Started process (PID=74698) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:02:18.417-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T03:02:18.417-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:02:18.417-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:02:18.526-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:02:18.614-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:02:18.614-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:02:18.618-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:02:18.618-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T03:02:18.625-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.210 seconds
+[2024-03-18T03:03:57.990-0400] {processor.py:161} INFO - Started process (PID=74785) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:03:57.991-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T03:03:57.991-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:03:57.991-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:03:58.099-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:03:58.185-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:03:58.185-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:03:58.189-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:03:58.189-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T03:03:58.196-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.206 seconds
+[2024-03-18T03:05:44.511-0400] {processor.py:161} INFO - Started process (PID=74874) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:05:44.512-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T03:05:44.512-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:05:44.512-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:05:44.621-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:05:44.709-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:05:44.709-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:05:44.713-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:05:44.713-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T03:05:44.720-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.210 seconds
+[2024-03-18T03:07:34.668-0400] {processor.py:161} INFO - Started process (PID=75025) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:07:34.669-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T03:07:34.669-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:07:34.669-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:07:34.775-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:07:34.859-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:07:34.858-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:07:34.862-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:07:34.862-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T03:07:34.869-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.202 seconds
+[2024-03-18T03:09:18.898-0400] {processor.py:161} INFO - Started process (PID=75113) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:09:18.899-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T03:09:18.899-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:09:18.899-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:09:19.002-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:09:19.092-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:09:19.092-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:09:19.096-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:09:19.096-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T03:09:19.103-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.205 seconds
+[2024-03-18T03:11:05.313-0400] {processor.py:161} INFO - Started process (PID=75251) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:11:05.314-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T03:11:05.315-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:11:05.315-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:11:05.419-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:11:05.505-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:11:05.505-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:11:05.508-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:11:05.508-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T03:11:05.516-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.204 seconds
+[2024-03-18T03:12:50.878-0400] {processor.py:161} INFO - Started process (PID=75377) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:12:50.879-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T03:12:50.880-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:12:50.879-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:12:50.982-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:12:51.071-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:12:51.070-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:12:51.074-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:12:51.074-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T03:12:51.081-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.204 seconds
+[2024-03-18T03:14:33.909-0400] {processor.py:161} INFO - Started process (PID=75479) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:14:33.911-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T03:14:33.911-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:14:33.911-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:14:34.013-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:14:34.096-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:14:34.096-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:14:34.100-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:14:34.100-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T03:14:34.106-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.198 seconds
+[2024-03-18T03:16:15.427-0400] {processor.py:161} INFO - Started process (PID=75576) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:16:15.428-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T03:16:15.428-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:16:15.428-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:16:15.552-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:16:15.640-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:16:15.640-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:16:15.644-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:16:15.643-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T03:16:15.650-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.225 seconds
+[2024-03-18T03:17:54.698-0400] {processor.py:161} INFO - Started process (PID=75688) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:17:54.699-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T03:17:54.699-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:17:54.699-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:17:54.806-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:17:54.890-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:17:54.890-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:17:54.893-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:17:54.893-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T03:17:54.900-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.202 seconds
+[2024-03-18T03:19:39.322-0400] {processor.py:161} INFO - Started process (PID=75866) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:19:39.323-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T03:19:39.323-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:19:39.323-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:19:39.425-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:19:39.508-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:19:39.508-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:19:39.512-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:19:39.511-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T03:19:39.518-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.197 seconds
+[2024-03-18T03:21:22.206-0400] {processor.py:161} INFO - Started process (PID=76008) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:21:22.207-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T03:21:22.207-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:21:22.207-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:21:22.314-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:21:22.399-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:21:22.399-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:21:22.402-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:21:22.402-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T03:21:22.409-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.204 seconds
+[2024-03-18T03:23:01.272-0400] {processor.py:161} INFO - Started process (PID=76111) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:23:01.274-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T03:23:01.274-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:23:01.274-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:23:01.375-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:23:01.454-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:23:01.454-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:23:01.458-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:23:01.458-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T03:23:01.465-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.193 seconds
+[2024-03-18T03:24:49.178-0400] {processor.py:161} INFO - Started process (PID=76193) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:24:49.178-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T03:24:49.179-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:24:49.179-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:24:49.286-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:24:49.360-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:24:49.360-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:24:49.364-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:24:49.363-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T03:24:49.371-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.194 seconds
+[2024-03-18T03:26:34.438-0400] {processor.py:161} INFO - Started process (PID=76293) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:26:34.439-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T03:26:34.439-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:26:34.439-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:26:34.548-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:26:34.637-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:26:34.636-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:26:34.640-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:26:34.640-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T03:26:34.647-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.209 seconds
+[2024-03-18T03:28:17.362-0400] {processor.py:161} INFO - Started process (PID=76392) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:28:17.364-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T03:28:17.364-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:28:17.364-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:28:17.467-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:28:17.551-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:28:17.551-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:28:17.554-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:28:17.554-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T03:28:17.561-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.199 seconds
+[2024-03-18T03:30:01.896-0400] {processor.py:161} INFO - Started process (PID=76479) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:30:01.897-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T03:30:01.897-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:30:01.897-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:30:02.004-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:30:02.087-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:30:02.087-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:30:02.090-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:30:02.090-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T03:30:02.097-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.201 seconds
+[2024-03-18T03:31:45.914-0400] {processor.py:161} INFO - Started process (PID=76630) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:31:45.914-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T03:31:45.915-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:31:45.914-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:31:46.018-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:31:46.102-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:31:46.102-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:31:46.106-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:31:46.106-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T03:31:46.114-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.201 seconds
+[2024-03-18T03:33:34.610-0400] {processor.py:161} INFO - Started process (PID=76766) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:33:34.611-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T03:33:34.611-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:33:34.611-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:33:34.718-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:33:34.802-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:33:34.802-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:33:34.805-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:33:34.805-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T03:33:34.812-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.202 seconds
+[2024-03-18T03:35:18.821-0400] {processor.py:161} INFO - Started process (PID=76987) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:35:18.822-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T03:35:18.823-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:35:18.822-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:35:18.924-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:35:19.002-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:35:19.001-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:35:19.005-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:35:19.005-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T03:35:19.012-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.191 seconds
+[2024-03-18T03:37:07.480-0400] {processor.py:161} INFO - Started process (PID=77107) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:37:07.481-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T03:37:07.481-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:37:07.481-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:37:07.589-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:37:07.673-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:37:07.673-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:37:07.676-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:37:07.676-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T03:37:07.683-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.203 seconds
+[2024-03-18T03:38:52.191-0400] {processor.py:161} INFO - Started process (PID=77191) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:38:52.192-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T03:38:52.192-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:38:52.192-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:38:52.301-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:38:52.387-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:38:52.387-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:38:52.390-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:38:52.390-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T03:38:52.397-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.207 seconds
+[2024-03-18T03:40:37.872-0400] {processor.py:161} INFO - Started process (PID=77311) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:40:37.873-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T03:40:37.873-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:40:37.873-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:40:37.981-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:40:38.075-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:40:38.075-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:40:38.078-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:40:38.078-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T03:40:38.085-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.213 seconds
+[2024-03-18T03:42:24.587-0400] {processor.py:161} INFO - Started process (PID=77438) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:42:24.588-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T03:42:24.588-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:42:24.588-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:42:24.690-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:42:24.776-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:42:24.776-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:42:24.780-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:42:24.780-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T03:42:24.787-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.201 seconds
+[2024-03-18T03:44:05.118-0400] {processor.py:161} INFO - Started process (PID=77529) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:44:05.119-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T03:44:05.120-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:44:05.119-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:44:05.226-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:44:05.311-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:44:05.311-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:44:05.314-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:44:05.314-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T03:44:05.322-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.205 seconds
+[2024-03-18T03:45:49.827-0400] {processor.py:161} INFO - Started process (PID=77633) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:45:49.828-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T03:45:49.828-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:45:49.828-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:45:49.936-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:45:50.020-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:45:50.020-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:45:50.023-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:45:50.023-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T03:45:50.031-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.204 seconds
+[2024-03-18T03:47:35.826-0400] {processor.py:161} INFO - Started process (PID=77738) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:47:35.826-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T03:47:35.827-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:47:35.827-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:47:35.927-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:47:36.001-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:47:36.001-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:47:36.004-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:47:36.004-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T03:47:36.011-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.186 seconds
+[2024-03-18T03:49:21.987-0400] {processor.py:161} INFO - Started process (PID=77833) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:49:21.988-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T03:49:21.989-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:49:21.989-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:49:22.097-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:49:22.182-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:49:22.182-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:49:22.186-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:49:22.185-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T03:49:22.193-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.206 seconds
+[2024-03-18T03:51:02.094-0400] {processor.py:161} INFO - Started process (PID=77976) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:51:02.096-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T03:51:02.096-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:51:02.096-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:51:02.200-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:51:02.285-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:51:02.284-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:51:02.288-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:51:02.288-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T03:51:02.294-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.201 seconds
+[2024-03-18T03:52:47.950-0400] {processor.py:161} INFO - Started process (PID=78187) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:52:47.951-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T03:52:47.951-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:52:47.951-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:52:48.051-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T03:52:48.124-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:52:48.124-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T03:52:48.127-0400] {logging_mixin.py:188} INFO - [2024-03-18T03:52:48.127-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T03:52:48.134-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.185 seconds
+[2024-03-18T04:09:34.168-0400] {processor.py:161} INFO - Started process (PID=78463) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T04:09:34.169-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T04:09:34.169-0400] {logging_mixin.py:188} INFO - [2024-03-18T04:09:34.169-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T04:09:34.274-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T04:09:34.363-0400] {logging_mixin.py:188} INFO - [2024-03-18T04:09:34.363-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T04:09:34.366-0400] {logging_mixin.py:188} INFO - [2024-03-18T04:09:34.366-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T04:09:34.373-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.206 seconds
+[2024-03-18T04:28:02.245-0400] {processor.py:161} INFO - Started process (PID=78724) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T04:28:02.246-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T04:28:02.247-0400] {logging_mixin.py:188} INFO - [2024-03-18T04:28:02.247-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T04:28:02.349-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T04:28:02.432-0400] {logging_mixin.py:188} INFO - [2024-03-18T04:28:02.432-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T04:28:02.436-0400] {logging_mixin.py:188} INFO - [2024-03-18T04:28:02.436-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T04:28:02.443-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.198 seconds
+[2024-03-18T04:37:03.814-0400] {processor.py:161} INFO - Started process (PID=78857) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T04:37:03.814-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T04:37:03.815-0400] {logging_mixin.py:188} INFO - [2024-03-18T04:37:03.815-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T04:37:03.922-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T04:37:03.997-0400] {logging_mixin.py:188} INFO - [2024-03-18T04:37:03.997-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T04:37:04.000-0400] {logging_mixin.py:188} INFO - [2024-03-18T04:37:04.000-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T04:37:04.007-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.194 seconds
+[2024-03-18T04:57:02.265-0400] {processor.py:161} INFO - Started process (PID=79210) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T04:57:02.266-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T04:57:02.266-0400] {logging_mixin.py:188} INFO - [2024-03-18T04:57:02.266-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T04:57:02.373-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T04:57:02.465-0400] {logging_mixin.py:188} INFO - [2024-03-18T04:57:02.465-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T04:57:02.469-0400] {logging_mixin.py:188} INFO - [2024-03-18T04:57:02.469-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T04:57:02.476-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.211 seconds
+[2024-03-18T04:59:04.532-0400] {processor.py:161} INFO - Started process (PID=79388) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T04:59:04.532-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T04:59:04.533-0400] {logging_mixin.py:188} INFO - [2024-03-18T04:59:04.533-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T04:59:04.640-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T04:59:04.726-0400] {logging_mixin.py:188} INFO - [2024-03-18T04:59:04.726-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T04:59:04.729-0400] {logging_mixin.py:188} INFO - [2024-03-18T04:59:04.729-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T04:59:04.737-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.205 seconds
+[2024-03-18T05:00:47.512-0400] {processor.py:161} INFO - Started process (PID=79479) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T05:00:47.514-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T05:00:47.514-0400] {logging_mixin.py:188} INFO - [2024-03-18T05:00:47.514-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T05:00:47.618-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T05:00:47.705-0400] {logging_mixin.py:188} INFO - [2024-03-18T05:00:47.705-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T05:00:47.709-0400] {logging_mixin.py:188} INFO - [2024-03-18T05:00:47.709-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T05:00:47.718-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.206 seconds
+[2024-03-18T05:17:49.096-0400] {processor.py:161} INFO - Started process (PID=79730) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T05:17:49.098-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T05:17:49.098-0400] {logging_mixin.py:188} INFO - [2024-03-18T05:17:49.098-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T05:17:49.202-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T05:17:49.289-0400] {logging_mixin.py:188} INFO - [2024-03-18T05:17:49.289-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T05:17:49.292-0400] {logging_mixin.py:188} INFO - [2024-03-18T05:17:49.292-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T05:17:49.299-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.203 seconds
+[2024-03-18T05:19:35.084-0400] {processor.py:161} INFO - Started process (PID=79840) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T05:19:35.086-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T05:19:35.086-0400] {logging_mixin.py:188} INFO - [2024-03-18T05:19:35.086-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T05:19:35.186-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T05:19:35.259-0400] {logging_mixin.py:188} INFO - [2024-03-18T05:19:35.259-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T05:19:35.263-0400] {logging_mixin.py:188} INFO - [2024-03-18T05:19:35.263-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T05:19:35.270-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.186 seconds
+[2024-03-18T05:52:25.859-0400] {processor.py:161} INFO - Started process (PID=80176) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T05:52:25.859-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T05:52:25.860-0400] {logging_mixin.py:188} INFO - [2024-03-18T05:52:25.860-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T05:52:25.967-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T05:52:26.058-0400] {logging_mixin.py:188} INFO - [2024-03-18T05:52:26.058-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T05:52:26.062-0400] {logging_mixin.py:188} INFO - [2024-03-18T05:52:26.062-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T05:52:26.070-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.212 seconds
+[2024-03-18T05:54:28.431-0400] {processor.py:161} INFO - Started process (PID=80529) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T05:54:28.432-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T05:54:28.432-0400] {logging_mixin.py:188} INFO - [2024-03-18T05:54:28.432-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T05:54:28.546-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T05:54:28.631-0400] {logging_mixin.py:188} INFO - [2024-03-18T05:54:28.630-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T05:54:28.634-0400] {logging_mixin.py:188} INFO - [2024-03-18T05:54:28.634-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T05:54:28.641-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.210 seconds
+[2024-03-18T06:12:15.074-0400] {processor.py:161} INFO - Started process (PID=80849) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T06:12:15.075-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T06:12:15.075-0400] {logging_mixin.py:188} INFO - [2024-03-18T06:12:15.075-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T06:12:15.179-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T06:12:15.263-0400] {logging_mixin.py:188} INFO - [2024-03-18T06:12:15.263-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T06:12:15.266-0400] {logging_mixin.py:188} INFO - [2024-03-18T06:12:15.266-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T06:12:15.273-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.200 seconds
+[2024-03-18T06:19:14.484-0400] {processor.py:161} INFO - Started process (PID=80974) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T06:19:14.485-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T06:19:14.485-0400] {logging_mixin.py:188} INFO - [2024-03-18T06:19:14.485-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T06:19:14.592-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T06:19:14.675-0400] {logging_mixin.py:188} INFO - [2024-03-18T06:19:14.675-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T06:19:14.679-0400] {logging_mixin.py:188} INFO - [2024-03-18T06:19:14.679-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T06:19:14.685-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.202 seconds
+[2024-03-18T06:37:10.312-0400] {processor.py:161} INFO - Started process (PID=81241) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T06:37:10.313-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T06:37:10.313-0400] {logging_mixin.py:188} INFO - [2024-03-18T06:37:10.313-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T06:37:10.419-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T06:37:10.508-0400] {logging_mixin.py:188} INFO - [2024-03-18T06:37:10.508-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T06:37:10.512-0400] {logging_mixin.py:188} INFO - [2024-03-18T06:37:10.511-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T06:37:10.518-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.207 seconds
+[2024-03-18T06:38:57.542-0400] {processor.py:161} INFO - Started process (PID=81349) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T06:38:57.543-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T06:38:57.543-0400] {logging_mixin.py:188} INFO - [2024-03-18T06:38:57.543-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T06:38:57.649-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T06:38:57.734-0400] {logging_mixin.py:188} INFO - [2024-03-18T06:38:57.734-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T06:38:57.738-0400] {logging_mixin.py:188} INFO - [2024-03-18T06:38:57.738-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T06:38:57.745-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.204 seconds
+[2024-03-18T06:53:46.881-0400] {processor.py:161} INFO - Started process (PID=81614) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T06:53:46.883-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T06:53:46.883-0400] {logging_mixin.py:188} INFO - [2024-03-18T06:53:46.883-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T06:53:46.988-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T06:53:47.062-0400] {logging_mixin.py:188} INFO - [2024-03-18T06:53:47.062-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T06:53:47.065-0400] {logging_mixin.py:188} INFO - [2024-03-18T06:53:47.065-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T06:53:47.073-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.192 seconds
+[2024-03-18T06:58:27.223-0400] {processor.py:161} INFO - Started process (PID=81819) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T06:58:27.224-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T06:58:27.224-0400] {logging_mixin.py:188} INFO - [2024-03-18T06:58:27.224-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T06:58:27.329-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T06:58:27.401-0400] {logging_mixin.py:188} INFO - [2024-03-18T06:58:27.401-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T06:58:27.404-0400] {logging_mixin.py:188} INFO - [2024-03-18T06:58:27.404-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T06:58:27.411-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.189 seconds
+[2024-03-18T07:00:03.437-0400] {processor.py:161} INFO - Started process (PID=81896) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T07:00:03.438-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T07:00:03.438-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:00:03.438-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T07:00:03.539-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T07:00:03.618-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:00:03.618-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T07:00:03.622-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:00:03.622-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T07:00:03.629-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.193 seconds
+[2024-03-18T07:04:23.845-0400] {processor.py:161} INFO - Started process (PID=82112) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T07:04:23.845-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T07:04:23.846-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:04:23.846-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T07:04:23.950-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T07:04:24.024-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:04:24.024-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T07:04:24.027-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:04:24.027-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T07:04:24.034-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.190 seconds
+[2024-03-18T07:08:49.424-0400] {processor.py:161} INFO - Started process (PID=82233) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T07:08:49.425-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T07:08:49.425-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:08:49.425-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T07:08:49.527-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T07:08:49.600-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:08:49.600-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T07:08:49.604-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:08:49.603-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T07:08:49.610-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.187 seconds
+[2024-03-18T07:10:40.431-0400] {processor.py:161} INFO - Started process (PID=82322) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T07:10:40.431-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T07:10:40.432-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:10:40.432-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T07:10:40.532-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T07:10:40.605-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:10:40.605-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T07:10:40.608-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:10:40.608-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T07:10:40.616-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.185 seconds
+[2024-03-18T07:28:32.482-0400] {processor.py:161} INFO - Started process (PID=82655) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T07:28:32.483-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T07:28:32.483-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:28:32.483-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T07:28:32.587-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T07:28:32.661-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:28:32.661-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T07:28:32.664-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:28:32.664-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T07:28:32.671-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.190 seconds
+[2024-03-18T07:30:20.333-0400] {processor.py:161} INFO - Started process (PID=82790) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T07:30:20.334-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T07:30:20.334-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:30:20.334-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T07:30:20.434-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T07:30:20.507-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:30:20.507-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T07:30:20.510-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:30:20.510-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T07:30:20.520-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.187 seconds
+[2024-03-18T07:32:08.453-0400] {processor.py:161} INFO - Started process (PID=82903) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T07:32:08.454-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T07:32:08.454-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:32:08.454-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T07:32:08.560-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T07:32:08.635-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:32:08.635-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T07:32:08.638-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:32:08.638-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T07:32:08.645-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.193 seconds
+[2024-03-18T07:33:52.998-0400] {processor.py:161} INFO - Started process (PID=82994) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T07:33:52.999-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T07:33:52.999-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:33:52.999-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T07:33:53.099-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T07:33:53.173-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:33:53.172-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T07:33:53.176-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:33:53.176-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T07:33:53.185-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.188 seconds
+[2024-03-18T07:50:57.294-0400] {processor.py:161} INFO - Started process (PID=83289) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T07:50:57.294-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T07:50:57.295-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:50:57.295-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T07:50:57.399-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T07:50:57.477-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:50:57.477-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T07:50:57.481-0400] {logging_mixin.py:188} INFO - [2024-03-18T07:50:57.481-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T07:50:57.488-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.195 seconds
+[2024-03-18T08:08:22.066-0400] {processor.py:161} INFO - Started process (PID=83578) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:08:22.067-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T08:08:22.067-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:08:22.067-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:08:22.174-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:08:22.259-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:08:22.259-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:08:22.262-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:08:22.262-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T08:08:22.269-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.204 seconds
+[2024-03-18T08:16:56.558-0400] {processor.py:161} INFO - Started process (PID=83767) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:16:56.558-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T08:16:56.559-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:16:56.559-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:16:56.663-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:16:56.736-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:16:56.736-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:16:56.740-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:16:56.740-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T08:16:56.747-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.190 seconds
+[2024-03-18T08:18:41.734-0400] {processor.py:161} INFO - Started process (PID=83952) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:18:41.735-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T08:18:41.735-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:18:41.735-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:18:41.838-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:18:41.923-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:18:41.923-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:18:41.927-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:18:41.927-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T08:18:41.934-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.200 seconds
+[2024-03-18T08:29:07.772-0400] {processor.py:161} INFO - Started process (PID=84356) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:29:07.774-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T08:29:07.774-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:29:07.774-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:29:07.881-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:29:07.965-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:29:07.965-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:29:07.969-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:29:07.969-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T08:29:07.979-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.208 seconds
+[2024-03-18T08:31:03.812-0400] {processor.py:161} INFO - Started process (PID=84531) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:31:03.814-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T08:31:03.814-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:31:03.814-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:31:03.932-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:31:04.028-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:31:04.028-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:31:04.032-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:31:04.032-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T08:31:04.040-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.228 seconds
+[2024-03-18T08:32:56.568-0400] {processor.py:161} INFO - Started process (PID=84653) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:32:56.569-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T08:32:56.569-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:32:56.569-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:32:56.696-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:32:56.802-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:32:56.802-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:32:56.806-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:32:56.806-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T08:32:56.815-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.247 seconds
+[2024-03-18T08:34:48.359-0400] {processor.py:161} INFO - Started process (PID=84823) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:34:48.361-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T08:34:48.361-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:34:48.361-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:34:48.490-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:34:48.624-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:34:48.624-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:34:48.630-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:34:48.630-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T08:34:48.641-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.282 seconds
+[2024-03-18T08:36:44.228-0400] {processor.py:161} INFO - Started process (PID=85030) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:36:44.229-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T08:36:44.230-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:36:44.229-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:36:44.362-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:36:44.462-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:36:44.461-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:36:44.466-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:36:44.465-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T08:36:44.474-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.246 seconds
+[2024-03-18T08:38:31.436-0400] {processor.py:161} INFO - Started process (PID=85198) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:38:31.437-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T08:38:31.437-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:38:31.437-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:38:31.553-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:38:31.647-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:38:31.647-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:38:31.651-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:38:31.651-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T08:38:31.660-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.225 seconds
+[2024-03-18T08:40:20.761-0400] {processor.py:161} INFO - Started process (PID=85332) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:40:20.762-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T08:40:20.762-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:40:20.762-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:40:20.877-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:40:20.973-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:40:20.973-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:40:20.977-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:40:20.977-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T08:40:20.984-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.224 seconds
+[2024-03-18T08:42:06.684-0400] {processor.py:161} INFO - Started process (PID=85462) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:42:06.686-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T08:42:06.687-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:42:06.687-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:42:06.813-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:42:06.915-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:42:06.915-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:42:06.919-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:42:06.919-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T08:42:06.928-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.244 seconds
+[2024-03-18T08:43:55.043-0400] {processor.py:161} INFO - Started process (PID=85602) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:43:55.043-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T08:43:55.044-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:43:55.044-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:43:55.180-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:43:55.276-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:43:55.276-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:43:55.280-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:43:55.280-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T08:43:55.288-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.247 seconds
+[2024-03-18T08:45:50.969-0400] {processor.py:161} INFO - Started process (PID=85777) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:45:50.970-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T08:45:50.970-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:45:50.970-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:45:51.089-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:45:51.187-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:45:51.187-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:45:51.192-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:45:51.191-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T08:45:51.200-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.233 seconds
+[2024-03-18T08:47:42.035-0400] {processor.py:161} INFO - Started process (PID=85994) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:47:42.035-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T08:47:42.036-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:47:42.036-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:47:42.165-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:47:42.270-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:47:42.270-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:47:42.274-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:47:42.274-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T08:47:42.283-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.249 seconds
+[2024-03-18T08:49:37.792-0400] {processor.py:161} INFO - Started process (PID=86170) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:49:37.793-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T08:49:37.794-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:49:37.794-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:49:37.911-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:49:38.009-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:49:38.009-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:49:38.012-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:49:38.012-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T08:49:38.021-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.230 seconds
+[2024-03-18T08:51:32.001-0400] {processor.py:161} INFO - Started process (PID=86308) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:51:32.002-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T08:51:32.002-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:51:32.002-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:51:32.135-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:51:32.240-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:51:32.240-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:51:32.244-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:51:32.244-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T08:51:32.253-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.253 seconds
+[2024-03-18T08:53:25.485-0400] {processor.py:161} INFO - Started process (PID=86424) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:53:25.486-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T08:53:25.486-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:53:25.486-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:53:25.605-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:53:25.702-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:53:25.702-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:53:25.706-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:53:25.706-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T08:53:25.714-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.229 seconds
+[2024-03-18T08:55:53.462-0400] {processor.py:161} INFO - Started process (PID=86592) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:55:53.464-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T08:55:53.464-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:55:53.464-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:55:53.591-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:55:53.696-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:55:53.696-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:55:53.700-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:55:53.700-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T08:55:53.709-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.247 seconds
+[2024-03-18T08:57:54.133-0400] {processor.py:161} INFO - Started process (PID=86737) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:57:54.134-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T08:57:54.134-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:57:54.134-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:57:54.252-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:57:54.345-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:57:54.345-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:57:54.350-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:57:54.349-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T08:57:54.357-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.225 seconds
+[2024-03-18T08:59:49.134-0400] {processor.py:161} INFO - Started process (PID=86946) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:59:49.134-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T08:59:49.135-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:59:49.135-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:59:49.268-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T08:59:49.364-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:59:49.363-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T08:59:49.367-0400] {logging_mixin.py:188} INFO - [2024-03-18T08:59:49.367-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T08:59:49.375-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.243 seconds
+[2024-03-18T09:01:39.530-0400] {processor.py:161} INFO - Started process (PID=87076) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T09:01:39.531-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T09:01:39.531-0400] {logging_mixin.py:188} INFO - [2024-03-18T09:01:39.531-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T09:01:39.644-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T09:01:39.737-0400] {logging_mixin.py:188} INFO - [2024-03-18T09:01:39.737-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T09:01:39.742-0400] {logging_mixin.py:188} INFO - [2024-03-18T09:01:39.741-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T09:01:39.751-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.222 seconds
+[2024-03-18T09:03:25.333-0400] {processor.py:161} INFO - Started process (PID=87199) to work on /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T09:03:25.335-0400] {processor.py:830} INFO - Processing file /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-03-18T09:03:25.335-0400] {logging_mixin.py:188} INFO - [2024-03-18T09:03:25.335-0400] {dagbag.py:540} INFO - Filling up the DagBag from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T09:03:25.445-0400] {processor.py:840} INFO - DAG(s) 'example_dag_decorator' retrieved from /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-03-18T09:03:25.538-0400] {logging_mixin.py:188} INFO - [2024-03-18T09:03:25.538-0400] {dag.py:3047} INFO - Sync 1 DAGs
+[2024-03-18T09:03:25.542-0400] {logging_mixin.py:188} INFO - [2024-03-18T09:03:25.542-0400] {dag.py:3834} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-03-18T09:03:25.549-0400] {processor.py:183} INFO - Processing /Users/dbendet/.pyenv/versions/3.9.10/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.217 seconds
